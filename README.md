@@ -9,5 +9,6 @@ File > Preferences > Settings > Text Editor > Cursor > Cursor Blinking: solid
 - Auto Rename Tag
 - Code Spell Checker
 - ESLint
+- GitLens — Git supercharged
 - Material Icon Theme
 - Prettier - Code formatter
