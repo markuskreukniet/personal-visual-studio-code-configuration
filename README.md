@@ -12,3 +12,7 @@ File > Preferences > Settings > Text Editor > Cursor > Cursor Blinking: solid
 - GitLens — Git supercharged
 - Material Icon Theme
 - Prettier - Code formatter
+
+optional:
+- lit-plugin
+- Svelte for VS Code
